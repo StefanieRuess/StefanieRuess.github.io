@@ -33,16 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:stefanie.ruess@zu.de'
     label: E-mail Me
-  - icon: ''
-    url: ''
-  - icon: ''
-    url: ''
-  - icon: ''
-    url: ''
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/stefanie-rueß-6843a4175
-  - icon: ''
-    url: ''
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-4571-7459
 
