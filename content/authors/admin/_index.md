@@ -41,15 +41,17 @@ profiles:
 interests:
   - Welfare State Policies
   - Bureaucratic Discrimination
+  - Media Framing
+  - Legislative Studies
   - Survey Experiments
 
 education:
-  - area: PhD Politics and Public Administration
+  - area: Ph.D. Politics and Public Administration
     institution: University of Konstanz
     date_start: 2022-01-01
     date_end: ''
     summary: |
-      Thesis on _Biased by the Media?_.
+      Thesis on _Biased by the Media? The Occurrence and Mitigation of Discrimination in Welfare Offices_.
     button:
       text: ''
       url: ''
@@ -90,15 +92,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R/Stata
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Qualtrics
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Trello/Notion
         description: ''
         percent: 40
         icon: circle-stack
@@ -106,7 +108,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Swimming
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -132,30 +134,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Scheffel Price
+    url: ''
+    date: '2015-06-31'
+    awarder: Freie Katholische Mädchenschule St. Hildegard
+    icon: ''
     summary: |
-      x
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      x
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      x
+      ''
 ---
 
 ## About Me
 
-I am a research associate.
+I am a research associate in the ERC-project DEMOLAW (The design, creation and survival of democratic laws) at the Chair of Prof. Dr. Steffen Hurka at Zeppelin University and a PhD candidate at the University of Konstanz. In my dissertation project, I developed the media-driven discrimination cycle, investigating how regional and national news coverage of immigration-related issues influence the decision-making of public officials in welfare offices. With the new position in the ERC-project, I focus on analyzing laws and administrative guidance documents with natural language processing methods, combining my interest of policy formulation and implementation. 
