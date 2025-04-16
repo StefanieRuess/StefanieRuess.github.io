@@ -11,7 +11,7 @@ last_name: Rueß
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:  🌻
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,7 +60,7 @@ education:
     summary: |
       welfare state research
   - area: B.A. Politics and Public Administration
-    institution: Massachusetts Institute of Technology
+    institution: University of Konstanz
     date_start: 2015-10-01
     date_end: 2029-03-31
     summary: |
